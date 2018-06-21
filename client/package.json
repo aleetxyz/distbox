@@ -1,0 +1,16 @@
+{
+  "name": "dist7_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.0",
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  }
+}
